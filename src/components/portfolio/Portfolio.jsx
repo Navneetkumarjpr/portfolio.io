@@ -72,9 +72,19 @@ const Portfolio = () => {
             Tech Used: ReactJs, NodeJS, ExpressJs, MongoDB.
             </p>
             <p>
+              - Website designed for the college and student
+              <p>
              - In this there are Two Panel One for college and one for Student . 
+
+              </p>
+              <p>
+
              - College can add, update Result, create the account of student and able to post the announcemnet for the students.
+              </p>
+              <p>
+
              - Students can search the result and able to post the complaint. 
+              </p>
             </p>
             </div>  
         </article>
