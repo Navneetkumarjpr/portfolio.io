@@ -40,7 +40,7 @@ const Portfolio = () => {
             Tech Used: ReactJs, Public Api.
             </p>
             <p>
-             - In this Website user can get the top news and also can serach for any topic and can use filter.
+             - A very simplified website to get the top news of your interest!!!.
             </p>
             </div>  
         </article>
@@ -56,7 +56,10 @@ const Portfolio = () => {
             Tech Used: ReactJs, NodeJS, ExpressJs, MongoDB, Google Authentication.
             </p>
             <p>
-             - In this user can add the Contacts online in their account and can access any time any where.
+             - A user friendly designed website for arranging your contacts ina a systematic manner for anytime use .
+            </p>
+             <p>
+             - User can store contact in there account online and can send a message on mail and whatsApp on one click. 
             </p>
             </div>  
         </article>
@@ -72,18 +75,18 @@ const Portfolio = () => {
             Tech Used: ReactJs, NodeJS, ExpressJs, MongoDB.
             </p>
             <p>
-              - Website designed for the college and student
+              - A site designed for the access of results and many such informations.
               <p>
-             - In this there are Two Panel One for college and one for Student . 
+             - It is available for both University and the students with their respective pannels.
 
               </p>
               <p>
 
-             - College can add, update Result, create the account of student and able to post the announcemnet for the students.
+             - Student and Teachers can login in the portal.
               </p>
               <p>
 
-             - Students can search the result and able to post the complaint. 
+             - Consist of features like announcement of result ,student complaints etc.
               </p>
             </p>
             </div>  

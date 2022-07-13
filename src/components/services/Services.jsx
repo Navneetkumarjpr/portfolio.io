@@ -10,7 +10,7 @@ const Services = () => {
         <article className='service'>
           <div className="service__head">
             <h3>Web Development Intern</h3>
-            <h5>Bokeh Photogenic Pvt. Ltd.</h5>
+            <h4>Photoshooto</h4>
           </div>
           <ul className="service__list">
             <li>
@@ -22,25 +22,19 @@ const Services = () => {
              <li>
              <BiCheck className='service__list-item'/>
               <p>
-              Make the user friendly Frontend Design
+              Design the user friendly Frontend Design
               </p>
              </li>
              <li >
              <BiCheck className='service__list-item'/>
               <p>
-              worked with Team and handled the team
+              Was part of the team and handled the team as team leader.
               </p>
              </li>
              <li >
              <BiCheck className='service__list-item'/>
               <p>
               Got Exposure to React js
-              </p>
-             </li>
-             <li >
-             <BiCheck className='service__list-item'/>
-              <p>
-              Got Exposure to Team Work , Team Leading
               </p>
              </li>
           </ul>
